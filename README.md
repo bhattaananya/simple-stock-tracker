@@ -1,2 +1,2 @@
 # My-Project-Tritiya-
-B.Tech CSE projects, assignments, and programming practice.
+create a simple stock tracker..
